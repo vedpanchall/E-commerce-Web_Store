@@ -3,9 +3,12 @@
 @tailwind utilities;
 
 body {
-  background: #0f0f10;
+  /* background: rgb(0, 16, 54); */
+  /* background-color :#02002f; */
+  background-color :#0e2647;
   color: #fff;
 }
+/* } */
 
 input,
 textarea {
